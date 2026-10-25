@@ -1,0 +1,302 @@
+{
+  "source": "https://onlineradiofm.in/language/telugu",
+  "fetched_at": "2026-06-16",
+  "total_stations": 42,
+  "stations_with_stream": 38,
+  "stations": [
+    {
+      "name": "AIR Akashvani Port Blair",
+      "page_url": "https://onlineradiofm.in/stations/air-port-blair-pc",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Air FM Rainbow Hyderabad",
+      "page_url": "https://onlineradiofm.in/telangana/hyderabad/fm-rainbow",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Air FM Rainbow Vijayawada",
+      "page_url": "https://onlineradiofm.in/andhra-pradesh/vijayawada/fm-rainbow",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Air FM Rainbow Visakhapatnam",
+      "page_url": "https://onlineradiofm.in/andhra-pradesh/visakhapatnam/fm-rainbow",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Akashvani Anantapur",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-anantapur",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Adilabad",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-aadilabad",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio Air Akashvani",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-akashvani",
+      "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio Air Cuddapah (Akashvani Kadapa)",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-cuddapah",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Hyderabad A",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-hyderabad-a",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Hyderabad B",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-hyderabad-b",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio033/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Kothagudem",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-kothagudem",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All india radio Air Kurnool",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-kurnool",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All india radio Air Markapur",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-markapur",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Nellore",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-nellore",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Nellore Nellore",
+      "page_url": "https://onlineradiofm.in/andhra-pradesh/nellore/all-india-air-nellore",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Nizamabad",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-nizamabad",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio Air Telugu",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-telugu",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Tirupati",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-tirupati",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Vijayawada - Akashvani Andhra Pradesh",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-vijayawada",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio Air Visakhapatnam",
+      "page_url": "https://onlineradiofm.in/stations/all-india-radio-air-visakhapatnam",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "All India Radio AIR Warangal",
+      "page_url": "https://onlineradiofm.in/stations/all-india-air-warangal",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "AP 9 FM Radio",
+      "page_url": "https://onlineradiofm.in/stations/ap-9-fm-telugu",
+      "stream_url": "https://stream.ap9fm.in/radio/8000/radio.mp3",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "London Telugu Radio",
+      "page_url": "https://onlineradiofm.in/stations/london-telugu",
+      "stream_url": "https://c8.radioboss.fm/stream/33",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Magic 106.4",
+      "page_url": "https://onlineradiofm.in/stations/magic",
+      "stream_url": null,
+      "stream_available": false,
+      "error": null
+    },
+    {
+      "name": "Melody Radio Telugu",
+      "page_url": "https://onlineradiofm.in/stations/melody-radio-telugu",
+      "stream_url": "https://a1.asurahosting.com:9580/radio.mp3",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Mohammed Rafi Radio",
+      "page_url": "https://onlineradiofm.in/stations/city-mohammed-rafi",
+      "stream_url": "https://stream.zeno.fm/2xx62x8ztm0uv",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Radio Bol Hyderabad",
+      "page_url": "https://onlineradiofm.in/stations/bol-hyderabad",
+      "stream_url": null,
+      "stream_available": false,
+      "error": null
+    },
+    {
+      "name": "Radio City Ghantasala Hits",
+      "page_url": "https://onlineradiofm.in/stations/ghantasala-hits",
+      "stream_url": null,
+      "stream_available": false,
+      "error": null
+    },
+    {
+      "name": "Radio City Telugu Gold",
+      "page_url": "https://onlineradiofm.in/stations/city-telugu-gold",
+      "stream_url": null,
+      "stream_available": false,
+      "error": null
+    },
+    {
+      "name": "Radio Hungama Hot now Telugu",
+      "page_url": "https://onlineradiofm.in/stations/radio-hungama-hot-now-telugu",
+      "stream_url": "https://stream.zeno.fm/ysucrq37uwzuv",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Radio Hungama Telugu FM",
+      "page_url": "https://onlineradiofm.in/stations/hungama-telugu-fm",
+      "stream_url": "https://radioindia.net/radio/humgama-telugu/icecast.audio",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Radio Mirchi 98.3 FM",
+      "page_url": "https://onlineradiofm.in/stations/mirchi",
+      "stream_url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Radio Mirchi 98.3 FM Hyderabad",
+      "page_url": "https://onlineradiofm.in/telangana/hyderabad/mirchi",
+      "stream_url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Radio Mirchi Bay Area Telugu",
+      "page_url": "https://onlineradiofm.in/stations/mirchi-bay-area-telugu",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MTL_TEL_ESTAAC.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Radio Myind Media",
+      "page_url": "https://onlineradiofm.in/stations/myind-media",
+      "stream_url": "https://radioindia.net/radio/myndmedia/icecast.audio",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Radio Ranjan 90.4 FM",
+      "page_url": "https://onlineradiofm.in/stations/radio-ranjan-90.4-fm",
+      "stream_url": "https://stream.zeno.fm/rfqqoi2w5u0tv",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Radio Vishnu 90.4",
+      "page_url": "https://onlineradiofm.in/stations/radio-vishnu-90.4",
+      "stream_url": "https://streamasiahlscdn.atc-labs.com/radiovishnu.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Red FM 93.5",
+      "page_url": "https://onlineradiofm.in/stations/red",
+      "stream_url": "https://stream.zeno.fm/9phrkb1e3v8uv",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Telugu NRI Radio",
+      "page_url": "https://onlineradiofm.in/stations/telugu-nri",
+      "stream_url": "https://cast5.asurahosting.com:2199/proxy/telugunr?mp=/stream",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Teluguone Radio (TORI)",
+      "page_url": "https://onlineradiofm.in/stations/teluguone",
+      "stream_url": "https://stream.teluguoneradio.com:8164/;stream/1",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Vividh Bharati Hyderabad",
+      "page_url": "https://onlineradiofm.in/telangana/hyderabad/vividh-bharati",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    },
+    {
+      "name": "Vividh Bharati Vijayawada",
+      "page_url": "https://onlineradiofm.in/andhra-pradesh/vijayawada/vividh-bharati",
+      "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8",
+      "stream_available": true,
+      "error": null
+    }
+  ]
+}
